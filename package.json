@@ -1,0 +1,25 @@
+{
+  "name": "github-bot2",
+  "version": "1.0.0",
+  "description": "this is repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenkriztao/github-bot2.git"
+  },
+  "author": "Muhammad Rizki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenkriztao/github-bot2/issues"
+  },
+  "homepage": "https://github.com/zenkriztao/github-bot2#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.29.1",
+    "random": "^2.2.0",
+    "simple-git": "^2.21.0"
+  }
+}
